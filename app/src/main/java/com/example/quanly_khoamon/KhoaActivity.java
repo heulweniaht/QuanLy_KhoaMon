@@ -27,6 +27,14 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
+/*
+ ************************************************************
+ *  Như 1 vở kịch buồn , anh diễn trọn cả nhiều vai           *
+ *                                                          *
+ *                                  Thái đẹp trai vcl       *
+ ************************************************************
+ */
+
 public class KhoaActivity extends AppCompatActivity {
     RecyclerView rcvKhoa;
     KhoaAdapter adapter;
